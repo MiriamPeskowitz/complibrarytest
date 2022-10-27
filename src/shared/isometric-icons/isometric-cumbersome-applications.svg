@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <g fill="none" fill-rule="evenodd" transform="translate(36.864 51.2)">
+    <polygon fill="#FFF" points="148.517 153.663 4.762 120.289 36.081 51.1 171.565 94.417"/>
+    <polygon stroke="#152E5F" stroke-linejoin="round" stroke-width="5.12" points="148.517 153.663 4.762 120.289 36.081 51.1 171.565 94.417"/>
+    <polygon fill="#FFF" points="182.536 108.468 107.294 151.909 0 89.646 75.242 46.226"/>
+    <polygon stroke="#152E5F" stroke-linejoin="round" stroke-width="5.12" points="182.536 108.468 107.294 151.909 0 89.646 75.242 46.226"/>
+    <polygon fill="#FFF" points="182.555 93.288 107.313 136.729 .019 74.466 75.261 31.047"/>
+    <polygon stroke="#152E5F" stroke-linejoin="round" stroke-width="5.12" points="182.555 93.288 107.313 136.729 .019 74.466 75.261 31.047"/>
+    <polygon fill="#FFF" points="182.536 77.355 107.294 120.796 0 58.533 75.242 15.113"/>
+    <polygon stroke="#152E5F" stroke-linejoin="round" stroke-width="5.12" points="182.536 77.355 107.294 120.796 0 58.533 75.242 15.113"/>
+    <polygon fill="#FFF" points="182.536 62.241 107.294 105.682 0 43.419 75.242 0"/>
+    <polygon stroke="#152E5F" stroke-linejoin="round" stroke-width="5.12" points="182.536 62.241 107.294 105.682 0 43.419 75.242 0"/>
+    <line x1="65.33" x2="98.12" y1="48.232" y2="29.049" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    <line x1="81.825" x2="113.472" y1="57.791" y2="37.766" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    <polygon fill="#FFF" points="86.506 20.162 38.378 48.716 30.224 44.388 78.352 15.835"/>
+    <polygon stroke="#152E5F" stroke-linejoin="round" stroke-width="5.12" points="86.506 20.162 38.378 48.716 30.224 44.388 78.352 15.835"/>
+    <polygon fill="#FFF" points="66.357 57.187 58.713 61.601 50.558 57.273 58.202 52.861"/>
+    <polygon stroke="#152E5F" stroke-linejoin="round" stroke-width="5.12" points="66.357 57.187 58.713 61.601 50.558 57.273 58.202 52.861"/>
+    <polygon fill="#FFF" points="83.121 66.929 75.477 71.342 67.322 67.014 74.966 62.602"/>
+    <polygon stroke="#152E5F" stroke-linejoin="round" stroke-width="5.12" points="83.121 66.929 75.477 71.342 67.322 67.014 74.966 62.602"/>
+  </g>
+</svg>

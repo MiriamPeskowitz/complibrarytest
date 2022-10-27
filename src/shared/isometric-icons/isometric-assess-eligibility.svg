@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <polygon id="assess-eligibilty-a" points=".256 .256 .768 .256 .768 .768 .256 .768"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(61.44 39.936)">
+    <path fill="#FFF" d="M11.052544,172.136938 L124.381696,111.397354 C130.228736,108.263914 133.805568,102.481386 133.75491,96.2452259 L133.222912,4.7764259 C133.192192,1.0920739 128.860672,-1.1924701 125.4016,0.6527779 L12.225024,61.0114339 C6.385152,64.1254179 2.797056,69.8802979 2.81643328,76.0990499 L3.011072,167.884266 C3.022336,171.683306 7.490048,174.045674 11.052544,172.136938"/>
+    <path stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12" d="M11.052544,172.136938 L124.381696,111.397354 C130.228736,108.263914 133.805568,102.481386 133.75491,96.2452259 L133.222912,4.7764259 C133.192192,1.0920739 128.860672,-1.1924701 125.4016,0.6527779 L12.225024,61.0114339 C6.385152,64.1254179 2.797056,69.8802979 2.81643328,76.0990499 L3.011072,167.884266 C3.022336,171.683306 7.490048,174.045674 11.052544,172.136938 Z"/>
+    <path fill="#FFF" d="M29.7490432,66.3339811 C29.5196672,66.9565731 28.8673792,67.3149731 28.2908672,67.1347491 C27.7143552,66.9545251 27.4327552,66.3042851 27.6611072,65.6806691 C27.8904832,65.0580771 28.5437952,64.6986531 29.1203072,64.8799011 C29.6968192,65.0601251 29.9784192,65.7113891 29.7490432,66.3339811"/>
+    <path stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12" d="M29.7490432,66.3339811 C29.5196672,66.9565731 28.8673792,67.3149731 28.2908672,67.1347491 C27.7143552,66.9545251 27.4327552,66.3042851 27.6611072,65.6806691 C27.8904832,65.0580771 28.5437952,64.6986531 29.1203072,64.8799011 C29.6968192,65.0601251 29.9784192,65.7113891 29.7490432,66.3339811 Z"/>
+    <g transform="translate(4.013 22.874)">
+      <line x2="128.56" y1="69.147" fill="#FFF"/>
+      <line x2="128.56" y1="69.147" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    </g>
+    <polygon fill="#FFF" points="78.684 157.609 78.684 102.135 120.731 135.455 108.717 140.992 120.731 166.757 105.713 174.224 93.701 149.301"/>
+    <polygon stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12" points="78.684 157.609 78.684 102.135 120.731 135.455 108.717 140.992 120.731 166.757 105.713 174.224 93.701 149.301"/>
+    <g transform="translate(37.968 45.1)">
+      <line x2="30.325" y1="16.067" fill="#FFF"/>
+      <line x2="30.325" y1="16.067" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    </g>
+    <g transform="translate(77.878 82.656)">
+      <line x1=".512" x2=".512" y1="9.913" fill="#FFF"/>
+      <line x1=".512" x2=".512" y1="9.913" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    </g>
+    <g transform="translate(92.579 89.064)">
+      <line x2="7.602" y1="7.01" fill="#FFF"/>
+      <line x2="7.602" y1="7.01" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    </g>
+    <g transform="translate(60.08 89.064)">
+      <line x2="7.602" y2="7.01" fill="#FFF"/>
+      <line x2="7.602" y2="7.01" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    </g>
+    <g transform="translate(53.13 105.637)">
+      <line x2="10.752" y1=".512" y2=".512" fill="#FFF"/>
+      <line x2="10.752" y1=".512" y2=".512" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    </g>
+    <path fill="#FFF" d="M19.3019904,71.7849379 C19.0726144,72.4075299 18.4193024,72.7659299 17.8427904,72.5857059 C17.2662784,72.4054819 16.9846784,71.7552419 17.2140544,71.1316259 C17.4434304,70.5090339 18.0967424,70.1496099 18.6732544,70.3308579 C19.2497664,70.5110819 19.5313664,71.1623459 19.3019904,71.7849379"/>
+    <path stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12" d="M19.3019904,71.7849379 C19.0726144,72.4075299 18.4193024,72.7659299 17.8427904,72.5857059 C17.2662784,72.4054819 16.9846784,71.7552419 17.2140544,71.1316259 C17.4434304,70.5090339 18.0967424,70.1496099 18.6732544,70.3308579 C19.2497664,70.5110819 19.5313664,71.1623459 19.3019904,71.7849379 Z"/>
+    <g transform="translate(17.621 71.4)">
+      <line x1=".09" x2=".934" y1=".283" y2=".741" fill="#FFF"/>
+      <line x1=".09" x2=".934" y1=".283" y2=".741" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    </g>
+    <g transform="translate(0 176.016)">
+      <mask id="assess-eligibilty-b" fill="#fff">
+        <use xlink:href="#assess-eligibilty-a"/>
+      </mask>
+      <path fill="#FFF" mask="url(#assess-eligibilty-b)"/>
+    </g>
+    <line x1="28.793" x2="28.793" y1="65.998" y2="65.998" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    <g transform="translate(28.39 65.427)">
+      <line x1=".09" x2=".934" y1=".283" y2=".741" fill="#FFF"/>
+      <line x1=".09" x2=".934" y1=".283" y2=".741" stroke="#152E5F" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.12"/>
+    </g>
+  </g>
+</svg>
