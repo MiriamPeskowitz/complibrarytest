@@ -15,7 +15,7 @@ import IconDoubleChevronRight from "../../shared/icons/icon-double-chevron-right
 import { getUseStyles } from "../../shared/helpers";
 
 import styles from "./Pagination.jss.js";
-import { getDisplayRowsFromPaginatedData } from "./Pagination";
+import { getDisplayRowsFromPaginatedData } from "./paginationHelpers";
 
 import classNames from "classnames";
 const useStyles = getUseStyles(styles, "bdt-Pagination");

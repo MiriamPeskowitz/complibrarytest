@@ -2,7 +2,7 @@ import React from "react";
 
 import Typography from "../Typography";
 
-import IconChevronRight from "../shared/icons/icon-chevron-right.svg";
+import IconChevronRight from "../../shared/icons/icon-chevron-right.svg";
 import { getUseStyles } from "../../shared/helpers.js";
 
 import styles from "./Accordion.jss.js";

@@ -147,3 +147,5 @@ Empty.args = {
     wrap: true,
 }
 
+use this:
+npm i @rollup/plugin-typescript@8.3.3 --save-dev

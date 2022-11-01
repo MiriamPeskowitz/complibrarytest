@@ -1,5 +1,4 @@
-export { default as ButtonTemp } from "./ButtonTemp";
-
+// export { default as ButtonTemp } from "./ButtonTemp";
 export { default as Accordion } from "./Accordion";
 export { default as Banner } from "./Banner";
 export { default as Breadcrumb } from "./Breadcrumb";
@@ -51,12 +50,6 @@ export { default as Tooltip } from "./Tooltip";
 export { default as Typography } from "./Typography";
 export { default as UnorderedList } from "./UnorderedList";
 
-
-
-//I've been doing this individually as I tested out these components BUT
-//below is the full module ist from https://github.com/BenefitsDataTrust/componentlibraryrefactorfromUIComponents/blob/main/src/components/index.ts
-
-//
 
 
 
