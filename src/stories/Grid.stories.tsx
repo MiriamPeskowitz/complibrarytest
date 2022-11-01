@@ -2,7 +2,7 @@ import * as React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
 import { getUseStyles } from "../shared/helpers";
 
-import styles from "./components/Grid/Grid.stories.jss.js";
+import styles from "../components/Grid/Grid.stories.jss.js";
 import Grid from "../components/Grid";
 
 const useStyles = getUseStyles(styles);

@@ -1,9 +1,6 @@
 import React from "react";
-
 import { getUseStyles } from "../../shared/helpers";
-
 import styles from "./Grid.jss.js";
-
 import classNames from "classnames";
 const useStyles = getUseStyles(styles, "bdt-Grid");
 

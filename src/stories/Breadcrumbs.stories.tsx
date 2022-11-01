@@ -1,7 +1,7 @@
 import React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
 
-import IconChevronRight from "../../shared//icon-chevron-right.svg";
+import IconChevronRight from "../shared/icons/icon-chevron-right.svg";
 
 import Breadcrumb from "../components/Breadcrumb";
 import Grid from "../components/Grid";

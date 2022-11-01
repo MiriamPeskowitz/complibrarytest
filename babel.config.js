@@ -1,17 +1,4 @@
-export default {
-    presets: [
-        "@babel/preset-env",
-        "@babel/preset-react",
-        "@babel/preset-typescript",
-    ],
-    "env": {
-        "development" : {
-          "compact": false
-        }
-    }
-}
-
-// module.exports = {
+// export default {
 //     presets: [
 //         "@babel/preset-env",
 //         "@babel/preset-react",
@@ -23,3 +10,16 @@ export default {
 //         }
 //     }
 // }
+
+module.exports = {
+    presets: [
+        "@babel/preset-env",
+        "@babel/preset-react",
+        "@babel/preset-typescript",
+    ],
+    "env": {
+        "development" : {
+          "compact": false
+        }
+    }
+}

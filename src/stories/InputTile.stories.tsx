@@ -119,7 +119,7 @@ export const CheckboxFitContent = () => {
 
   const [options, setOptions] = React.useState(optionsDefault);
 
-  export const onClick = key => () => {
+  const onClick = (key: string) => () => {
     const newState = { ...options, [key]: !options[key] };
 
     setOptions(newState);

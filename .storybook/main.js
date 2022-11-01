@@ -16,7 +16,7 @@
 //older syntax but storybook gave me an error when I changed to export default -- have I asserted CJS?
   module.exports = {
     "stories": [
-      "../packages/intro.stories.mdx", // default page
+      // "../packages/intro.stories.mdx", // default page
       "../src/**/*.stories.mdx",
       "../src/**/*.stories.@(js|jsx|ts|tsx)"
     ],

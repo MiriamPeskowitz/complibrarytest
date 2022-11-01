@@ -1,7 +1,7 @@
 import React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
 
-import IconDollar from "../helpers//icons/icon-dollar.svg";
+import IconDollar from "../shared/icons/icon-dollar.svg";
 
 import Grid from "../components/Grid";
 import InputLabel from "../components/InputLabel";

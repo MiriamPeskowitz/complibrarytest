@@ -1,7 +1,7 @@
 import React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
 
-import IconFilter from "../shared/icon-filter.svg";
+import IconFilter from "../shared/icons/icon-filter.svg";
 import IconUser from "../shared/icons/icon-user.svg";
 
 import Grid from "../components/Grid";

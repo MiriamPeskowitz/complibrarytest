@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/MiriamPeskowitz"
   },
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "prototype for component library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
